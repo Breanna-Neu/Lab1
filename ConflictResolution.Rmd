@@ -30,6 +30,10 @@ summary(cars)
 ```
 
 ## Including Plots
+```{r}
+plot(cars)
+```
+
 
 You can also embed plots, for example:
 
